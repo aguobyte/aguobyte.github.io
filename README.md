@@ -2,5 +2,7 @@
 # Hi there!
 
 ## Education
-Psychology
+BA Psychology
+MSc Applied Social Research
+PhD Psychology - current
 
