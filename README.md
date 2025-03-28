@@ -1,6 +1,6 @@
 
 # Hi there!
-I am currently a PhD student at the University of Zurich in the Motivation, Volition, and Emotion lab. My research primarily focuses on the pursuit of longterm and hedonic goals. I have a background in applied and experimental research and as a clinical outcomes measurement consultant. In addition to goal-pursuit, I am broadly interested in well-being, decision making, and measure development. At this very moment, I am interested in finishing my PhD dissertation.
+I am currently a PhD candidate at the University of Zurich in the Motivation, Volition, and Emotion lab. My research primarily focuses on the pursuit of longterm and hedonic goals. I have a background in applied and experimental research and as a clinical outcomes measurement consultant. In addition to goal-pursuit, I am broadly interested in well-being, decision making, and measure development. At this very moment, I am interested in finishing my PhD dissertation.
 
 <p><a href="https://scholar.google.com/citations?user=BqeMwcAAAAAJ&hl=en" target="_blank">My Google Scholar</a></p>
 
