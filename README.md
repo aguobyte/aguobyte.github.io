@@ -5,9 +5,9 @@ I am a psychology PhD, having completed my degree at the University of Zurich in
 <p><a href="https://scholar.google.com/citations?user=BqeMwcAAAAAJ&hl=en" target="_blank">My Google Scholar</a></p>
 
 ## Education
-PhD Psychology, University of Zurich - current <br>
-MSc Applied Social Research, Trinity College Dublin <br>
-BA Psychology, Maynooth University <br>
+PhD Psychology (2025), University of Zurich <br>
+MSc Applied Social Research (2015), Trinity College Dublin <br>
+BA Psychology (2013), Maynooth University <br>
 
 ## Publications
 <p>Bernecker, K., Becker, D., & <strong>Guobyte, A.</strong> (2025). High Self-Control Individuals Prefer Meaning over Pleasure. <em>Social Psychology and Personality Science</em>. <a href="https://doi.org/10.1177/19485506251323948" target="_blank">https://doi.org/10.1177/19485506251323948</a></p>
