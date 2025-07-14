@@ -6,9 +6,9 @@ I am a psychology PhD, having completed my degree at the University of Zurich in
 
 ## Education
 PhD Psychology (2025), University of Zurich <br>
-&ensp;Dissertation:<i>Combining Long-Term and Hedonic Goals: Experience, Evaluation, and Choice</i><br>
+&ensp;Dissertation: <i>Combining Long-Term and Hedonic Goals: Experience, Evaluation, and Choice</i><br>
 MSc Applied Social Research (2015), Trinity College Dublin <br>
-&ensp;Thesis:<i>A qualitative exploration of methadone maintained patients’ experiences of treatment and recovery</i><br>
+&ensp;Thesis: <i>A qualitative exploration of methadone maintained patients’ experiences of treatment and recovery</i><br>
 BA Psychology (2013), Maynooth University <br>
 
 ## Publications
