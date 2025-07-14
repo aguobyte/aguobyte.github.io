@@ -1,12 +1,14 @@
 
 # Hi there!
-I am a psychology PhD, having completed my degree at the University of Zurich in the Motivation, Volition, and Emotion lab (May 2025). My research primarily focuses on the pursuit of longterm and hedonic goals. I have a background in applied and experimental research and as a clinical outcomes measurement consultant. In addition to goal-pursuit, I am broadly interested in well-being and health policy, decision making, and measure development.
+I am a psychology PhD, having completed my degree at the University of Zurich in the Motivation, Volition, and Emotion lab (May 2025). My research primarily focuses on the pursuit of longterm and hedonic goals. I have a background in applied and experimental research and as a clinical outcomes measurement consultant. In addition to goal-pursuit, I am broadly interested in well-being and policy, decision making, and measure development. 
 
 <p><a href="https://scholar.google.com/citations?user=BqeMwcAAAAAJ&hl=en" target="_blank">My Google Scholar</a></p>
 
 ## Education
 PhD Psychology (2025), University of Zurich <br>
+&ensp;<i>Combining Long-Term and Hedonic Goals: Experience, Evaluation, and Choice</i><br>
 MSc Applied Social Research (2015), Trinity College Dublin <br>
+&ensp;<i>A qualitative exploration of methadone maintained patients’ experiences of treatment and recovery</i><br>
 BA Psychology (2013), Maynooth University <br>
 
 ## Publications
