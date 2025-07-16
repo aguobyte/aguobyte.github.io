@@ -5,10 +5,10 @@ I am Aiste. I recently completed my psychology PhD at the University of Zurich i
 <p><a href="https://scholar.google.com/citations?user=BqeMwcAAAAAJ&hl=en" target="_blank">My Google Scholar</a></p>
 
 ## Education
-PhD Psychology (2025), University of Zurich <br>
-<dl><dt>Dissertation:</dt> <dd><i>Combining Long-Term and Hedonic Goals: Experience, Evaluation, and Choice</i><br>
-MSc Applied Social Research (2015), Trinity College Dublin ><br>
-&ensp;Thesis: <i>A qualitative exploration of methadone maintained patients’ experiences of treatment and recovery</i><br>
+PhD Psychology (2025), University of Zurich<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Dissertation: <i>Combining Long-Term and Hedonic Goals: Experience, Evaluation, and Choice</i>
+MSc Applied Social Research (2015), Trinity College Dublin<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Thesis: <i>A qualitative exploration of methadone maintained patients’ experiences of treatment and recovery</i><br>
 BA Psychology (2013), Maynooth University <br>
 
 ## Publications
