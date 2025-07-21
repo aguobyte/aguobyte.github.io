@@ -26,5 +26,5 @@ BA Psychology (2013), Maynooth University <br>
 
 I plan to upload some of my work in the future (following manuscript review periods, completion of projects, etc.)
 
-<img src="aguobyte.github.io/assets/img/collageofwork.png" style="display: block; margin: auto;" />
+![Collage of Work](assets/img/collageofwork.png)
 
