@@ -28,3 +28,6 @@ I plan to upload some of my work in the future (following manuscript review peri
 
 ![Collage of Work](assets/img/collageofwork.png)
 
+<script data-goatcounter="https://agweb.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
