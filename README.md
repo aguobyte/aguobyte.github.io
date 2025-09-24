@@ -26,4 +26,4 @@ BA Psychology (2013), Maynooth University <br>
 
 I plan to upload some of my work in the future (following manuscript review periods, completion of projects, etc.)
 
-![Collage of Work](assets/img/collageofwork.png)
+![Collage of Work](assets/img/collage_2.png)
